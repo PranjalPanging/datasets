@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+- family-names: "Panging"
+  given-names: "Pranjal"
+title: "Mising-English Numerical Dataset (MEND): A 100k Parallel Corpus"
+version: 1.0.0
+date-released: 2026-01-11
+url: "https://github.com/pranjalpanging/datasets/tree/main/mising/numbers"
